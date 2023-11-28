@@ -47,7 +47,7 @@ public class Practica1 {
     public static void ejercicio1(){
         System.out.println("\n------------------------------EJERCICIO 1------------------------------\n");
 
-        int[] numeros = new int[10];
+        int[] numeros = new int[30];
         int num;
         System.out.println("Introduzca diez numeros");
         for (int i = 0; i < numeros.length; i++) {
@@ -343,7 +343,7 @@ public class Practica1 {
     // Submenu del ejercicio12
     private static String menuEjercicio12(){
         return """
-                 
+
                  a. Mostrar valores.
                  b. Introducir valor.
                  c. Salir""";
@@ -528,7 +528,7 @@ public class Practica1 {
         return """
                 ----------------------UNIDAD 5---------------
                 ---------------------Practica 1--------------------
-                
+
                 1: Ejercicio 1
                 2: Ejercicio 2
                 3: Ejercicio 3
