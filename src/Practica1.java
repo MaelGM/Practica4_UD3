@@ -47,7 +47,7 @@ public class Practica1 {
     public static void ejercicio1(){
         System.out.println("\n------------------------------EJERCICIO 1------------------------------\n");
 
-        int[] numeros = new int[30];
+        int[] numeros = new int[20];
         int num;
         System.out.println("Introduzca diez numeros");
         for (int i = 0; i < numeros.length; i++) {
